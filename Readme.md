@@ -1,0 +1,1 @@
+A basic 18 character password genarator coded in python
